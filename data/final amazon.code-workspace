@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "final amazon",
+			"path": ".."
+		},
+		{
+			"name": "jasmine",
+			"path": "E:/jasmine"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "final amazon"
+	}
+}
